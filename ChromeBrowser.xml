@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listener.Listeners" />
+		<listener class-name="listener.ExtentReporterNG" />
+	</listeners>
+  <test  name="Verify Home">
+  <parameter name="browser" value="CHROME"></parameter>
+  <parameter name="userDataFile" value="src/main/java/resources/userData.json"></parameter>
+    <classes>
+      <class name="testcases.VerifyHomePage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

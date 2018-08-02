@@ -1,0 +1,13 @@
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/managers/ChromeDriverManager.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/managers/DriverConnection.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/managers/DriverManager.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/resources/DataObjects.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/managers/SafariDriverManager.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/listener/ExtentReporterNG.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/enums/DriverType.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/managers/DriverManagerFactory.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/listener/Listeners.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/pageObjects/LoginPage.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/logger/MyLogger.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/managers/FirefoxDriverManager.java
+/Users/tanumukherjee/eclipse-workspace/mindvalley_UI/src/main/java/utilities/Utility.java
